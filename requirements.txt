@@ -1,0 +1,25 @@
+# Core AI & LLM tools
+openai
+langchain
+
+# Vector store
+chromadb
+
+# File reading and parsing
+pymupdf  # For reading PDFs
+tiktoken  # For counting tokens
+
+# Agent system
+crewai
+
+# Environment variable management
+python-dotenv
+
+# Optional: simulate logins or web automation (if needed later)
+selenium
+
+# Optional: if using local models like Ollama later
+# ollama
+
+# Optional: logging, structured output, etc.
+rich
